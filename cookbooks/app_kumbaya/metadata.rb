@@ -1,0 +1,7 @@
+name 'app_kumbaya'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures app_kumbaya'
+long_description 'Installs/Configures app_kumbaya'
+version '0.1.0'
